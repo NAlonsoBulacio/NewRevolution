@@ -55,8 +55,8 @@ const historyImages = [ img1, img2, img3, img4]
 const path = "alfredo-neremberg"
 
 const googleSheets = "https://script.google.com/macros/s/AKfycbzRVLw6wGoHEBrYCZOYRHKkCj4Msyx6P6OXcpzsci-if8rzxXfJoznJhEeS27J6jCnjmw/exec"
-const wppLink = "https://wa.me/+5493751233212?text=Hola%2C%20estoy%20interesado%20en%20tus%20servicios"
-const wppNumber = "+5493751233212"
+const wppLink = "https://wa.me/+5493751231436?text=Hola%2C%20estoy%20interesado%20en%20tus%20servicios"
+const wppNumber = "+5493751231436"
   const data = {
   historyPart1,
   historyPart2,
